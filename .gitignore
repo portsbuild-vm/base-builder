@@ -2,3 +2,4 @@
 # a builder's hooks/upstream_check.py imports gendata from here.
 __pycache__/
 *.pyc
+.idea/
